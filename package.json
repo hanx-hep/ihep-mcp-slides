@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "dev": "slidev --host 0.0.0.0",
+    "build": "slidev build",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@iconify-json/mdi": "latest",
+    "@slidev/cli": "^52.0.0",
+    "playwright": "^1.59.1",
+    "slidev-theme-neversink": "latest"
+  }
+}
