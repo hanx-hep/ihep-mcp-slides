@@ -15,12 +15,16 @@ lineNumbers: false
 <mdi-server-network /> MCP Gateway · Auth Service · Docker Deployment
 
 ---
-layout: center
+layout: side-title
+title: Table of Contents
 color: rose-light
+align: cm-lm
 ---
 
-# Agenda
+:: title ::
+# Table of Contents
 
+:: content ::
 - **Project Overview** — Three Subprojects
 - **System Architecture** — End-to-End Design
 - **MCP Gateway** — Gateway Service
